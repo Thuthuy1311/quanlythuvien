@@ -10,7 +10,7 @@ package Model;
  * @author KHP2T
  */
 public class DanhMucSach {
-    private String maDM;
+    private String maDM = "";
     private String tenDM;
 
     public String getMaDM() {
