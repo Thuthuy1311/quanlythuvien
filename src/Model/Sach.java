@@ -20,6 +20,9 @@ public class Sach {
     private int soLuongCon;
     private String tomTatND ;
 
+    public Sach() {
+    }
+
     public String getMaSach() {
         return maSach;
     }
